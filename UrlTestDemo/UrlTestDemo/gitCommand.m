@@ -25,4 +25,8 @@
 - (void)test1{
     
 }
+
+- (void)test2{
+    NSLog(@"test2");
+}
 @end
