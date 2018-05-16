@@ -30,4 +30,8 @@
     NSLog(@"test2");
 }
 
+- (void)test3{
+    NSLog(@"test3");
+}
+
 @end
