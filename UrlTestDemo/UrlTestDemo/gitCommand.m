@@ -22,20 +22,4 @@
     NSLog(@"add code in dev");
 }
 
-- (void)test1{
-    
-}
-
-- (void)test2{
-    NSLog(@"test2");
-}
-
-- (void)test3{
-    NSLog(@"test3");
-}
-
-- (void)test4{
-    NSLog(@"test4");
-}
-
 @end
