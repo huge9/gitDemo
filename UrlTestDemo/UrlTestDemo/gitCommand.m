@@ -25,4 +25,8 @@
 - (void)normalCommitID{
     NSLog(@"commit id");
 }
+
+- (void)revertCommitId{
+    NSLog(@"need to revert commit id");
+}
 @end
