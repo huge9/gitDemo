@@ -22,4 +22,7 @@
     NSLog(@"add code in dev");
 }
 
+- (void)normalCommitID{
+    NSLog(@"commit id");
+}
 @end
