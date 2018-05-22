@@ -38,4 +38,8 @@
     NSLog(@"git tag command");
 }
 
+- (void)test{
+    
+}
+
 @end
