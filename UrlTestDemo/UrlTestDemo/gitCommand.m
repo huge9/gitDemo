@@ -33,4 +33,9 @@
 - (void)normalCommitID2{
     NSLog(@"commit id 2");
 }
+
+- (void)gitTag{
+    NSLog(@"git tag command");
+}
+
 @end
