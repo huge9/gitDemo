@@ -34,4 +34,8 @@
     NSLog(@"w");
 }
 
+- (void)q{
+    NSLog(@"w");
+}
+
 @end
