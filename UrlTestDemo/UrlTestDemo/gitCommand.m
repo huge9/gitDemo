@@ -30,4 +30,8 @@
     NSLog(@"合并两个仓库");
 }
 
+- (void)w{
+    NSLog(@"w");
+}
+
 @end
